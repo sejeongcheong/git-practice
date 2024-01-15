@@ -7,3 +7,4 @@ print("hello, jin")
 print("i don't know")
 
 print("1")
+print("2")
